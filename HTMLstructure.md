@@ -58,7 +58,7 @@ HTML (Hypertext Markup Language) is the code that is used to structure a web pag
   
   - In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
   - In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
-  - In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+  - In HTML, for example, the < h1 > element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
   
   
   
